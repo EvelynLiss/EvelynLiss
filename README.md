@@ -9,5 +9,5 @@
 # Habilidades Blandas
 . Actitud Positiva
 . Iniciativa
-. Empatíca
+. Empática
 . Escucha activa
