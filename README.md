@@ -1,4 +1,4 @@
-# EveLissalde 
+# EvelynLiss
 ¡Hola! Soy Evelyn Lissalde, en camino a ser Desarrolladora Web Full Stack. Esta aventura la inicie en febrero del 2023 que luego de mucho esfuerzo logré concluir. Lo realicé con la intencion de abrir nuevas puertas a nivel profesional, personal, y laboral. 
 Gracias a este camino tengo conocimiento en JavaScript, React, Redux, NodeJS, HTML5 CSS, Figma, ExpressJS, Promesas, Fremeworks, PostgreSQL, Sequelize, Slack y Git. 
 
